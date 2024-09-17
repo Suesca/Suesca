@@ -7,7 +7,7 @@ Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abie
 ### 📚 Formación Académica
 
 - **Bachiller Técnico en Sistemas**
-  - Institución Educativa Joaquín González Camargo, Sogamoso, Boyacá
+  - Institución Educativa Joaquín González Camargo.
   
 - **Ingeniería de Sistemas** (jun 2019 - jun 2024)
   - Universidad Nacional Abierta y a Distancia, Bogotá
@@ -29,26 +29,20 @@ Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abie
 ### 🛠️ Competencias
 
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) HTML5
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C75A1?style=flat&logo=postgresql&logoColor=white) PostgreSQL
-- ![Pentaho](https://img.shields.io/badge/Pentaho-%23CE5C4F?style=flat&logo=pentaho&logoColor=white) Pentaho Data Integration
-- ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black) Linux CentOS
-- ![MySQL](https://img.shields.io/badge/MySQL-%234F5D95?style=flat&logo=mysql&logoColor=white) MySQL
-- ![SoapUI](https://img.shields.io/badge/SoapUI-%2306D6A0?style=flat&logo=soapui&logoColor=white) SoapUI
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white) CSS3
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black) JavaScript - Básico
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C75A1?style=flat&logo=postgresql&logoColor=white) PostgreSQL
+- ![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=oracle&logoColor=white) Oracle - Básico
+- ![MySQL](https://img.shields.io/badge/MySQL-%234F5D95?style=flat&logo=mysql&logoColor=white) MySQL
+- ![Pentaho](https://img.shields.io/badge/Pentaho-%23CE5C4F?style=flat&logo=pentaho&logoColor=white) Pentaho Data Integration
+- ![SoapUI](https://img.shields.io/badge/SoapUI-%2306D6A0?style=flat&logo=soapui&logoColor=white) SoapUI
+- - ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black) Linux CentOS
+
 
 ### 🌐 Idiomas
 
 - Español - Nativo
-- Inglés - Básico
-
-### 📚 Cursos
-
-- Udemy - Curso de HTML5 (jun 2023)
-- Curso de inglés básico 80 horas certificado A2 (dic 2019)
-- Master en CSS: Responsive, SASS, Flexbox, Grid y Bootstrap (presente)
-- Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL (presente)
-- Master en JavaScript: Aprender JS, jQuery, Angular, NodeJS (presente)
-- Python de 0 a Experto (presente)
+- Inglés - Intermedio
 
 ### 📬 Contacto
 
