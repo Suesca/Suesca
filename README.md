@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel Felipe Suesca Patiño
+# 👋 Hola, soy Daniel Suesca
 
 ## 🎓 Sobre Mí
 
