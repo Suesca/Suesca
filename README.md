@@ -7,7 +7,7 @@ Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abie
 ### 📚 Formación Académica
 
 - **Bachiller Técnico en Sistemas**
-- **Ingeniero de Sistemas** 
+- **Ingeniería de Sistemas** 
 - **Especialización en Seguridad Informática** (presente)
 
 ### 🛠️ Competencias
