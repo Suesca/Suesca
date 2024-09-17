@@ -7,24 +7,8 @@ Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abie
 ### 📚 Formación Académica
 
 - **Bachiller Técnico en Sistemas**
-  - Institución Educativa Joaquín González Camargo.
-  
-- **Ingeniería de Sistemas** (jun 2019 - jun 2024)
-  - Universidad Nacional Abierta y a Distancia, Bogotá
-  
-- **Especialización en Seguridad Informática** (ene 2024 - presente)
-  - Universidad Nacional Abierta y a Distancia, Bogotá
-
-### 💼 Experiencia Profesional
-
-- **Monitor Registro y Control** (abr 2019 - dic 2020)
-  - UNAD, Bogotá
-  
-- **Funcionario Base de Datos** (feb 2020 - abr 2022)
-  - UNAD, Bogotá
-  
-- **Consultor Junior - L2K** (may 2022 - presente)
-  - Link2Know, Bogotá
+- **Ingeniero de Sistemas** 
+- **Especialización en Seguridad Informática** (presente)
 
 ### 🛠️ Competencias
 
