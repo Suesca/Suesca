@@ -28,14 +28,13 @@ Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abie
 
 ### 🛠️ Competencias
 
-- HTML5
-- PostgreSQL
-- Pentaho Data Integration
-- Linux CentOS
-- MySQL
-- SoapUI
-- CSS3
-- Linux
+- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white) HTML5
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C75A1?style=flat&logo=postgresql&logoColor=white) PostgreSQL
+- ![Pentaho](https://img.shields.io/badge/Pentaho-%23CE5C4F?style=flat&logo=pentaho&logoColor=white) Pentaho Data Integration
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black) Linux CentOS
+- ![MySQL](https://img.shields.io/badge/MySQL-%234F5D95?style=flat&logo=mysql&logoColor=white) MySQL
+- ![SoapUI](https://img.shields.io/badge/SoapUI-%2306D6A0?style=flat&logo=soapui&logoColor=white) SoapUI
+- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white) CSS3
 
 ### 🌐 Idiomas
 
@@ -53,7 +52,6 @@ Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abie
 
 ### 📬 Contacto
 
-- 📍 Calle 181 # 50 - 22, Bogotá
 - 📧 [danielsuesca3@gmail.com](mailto:danielsuesca3@gmail.com)
 - 📱 320-221-8048
 - 🌐 [LinkedIn](https://linkedin.com/in/daniel-suesca-2a927b174)
