@@ -1,7 +1,5 @@
 # 👋 Hola, soy Daniel Suesca
 
-## 🎓 Sobre Mí
-
 Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abierta y a Distancia (UNAD)**, con una profunda pasión por la programación y el desarrollo web. Mi enfoque ha sido desarrollar habilidades en áreas clave como bases de datos, HTML5, y CSS3, con un conocimiento básico de JavaScript que me permite crear experiencias interactivas en línea. Además, tengo habilidades en atención al cliente y un dominio sólido de herramientas ofimáticas.
 
 Actualmente soy desarrollador de bases de datos.
