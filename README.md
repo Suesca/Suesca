@@ -36,7 +36,7 @@ Soy un **Ingeniero de Sistemas** en formación en la **Universidad Nacional Abie
 - ![MySQL](https://img.shields.io/badge/MySQL-%234F5D95?style=flat&logo=mysql&logoColor=white) MySQL
 - ![Pentaho](https://img.shields.io/badge/Pentaho-%23CE5C4F?style=flat&logo=pentaho&logoColor=white) Pentaho Data Integration
 - ![SoapUI](https://img.shields.io/badge/SoapUI-%2306D6A0?style=flat&logo=soapui&logoColor=white) SoapUI
-- - ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black) Linux CentOS
+- ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black) Linux CentOS
 
 
 ### 🌐 Idiomas
